@@ -15,13 +15,14 @@ This responsive ecommerce website design for various pages such as Home, Shop, P
 ## Key Features
 
 - Google analytics  support
-- Responsive Desing
-- User-Fredly Interface
+- Responsive Design
+- User-Friendly Interface
 - Product Details Page
 - Contact form support
 - Google page speed optimized
 - Blog Page
 - Secure Payment Options
+- Improvised Loading Speed
 
 ## Local development
 
